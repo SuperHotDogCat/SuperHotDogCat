@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![SuperHotDogCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperHotDogCat&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/SuperHotDogCat/github-readme-stats)
 
 <!--
 **SuperHotDogCat/SuperHotDogCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
