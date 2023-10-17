@@ -1,6 +1,6 @@
-### Hi there 👋
+### こんな感じのことをしています↓
 [![SuperHotDogCat's GitHub stats](https://git-hub-readme-stats-clone-falk.vercel.app/api?username=SuperHotDogCat&theme=vue-dark&show_icons=true&count_private=true&show_icons=true)](https://github.com/SuperHotDogCat/github-readme-stats)
-[![Top Langs](https://git-hub-readme-stats-clone-falk.vercel.app/api/top-langs/?username=SuperHotDogCat&theme=vue-dark&show_icons=true&layout=compact&count_private=true)](https://github.com/SuperHotDogCat/github-readme-stats)
+[![Top Langs](https://git-hub-readme-stats-clone-falk.vercel.app/api/top-langs/?username=SuperHotDogCat&theme=vue-dark&show_icons=true&layout=compact&count_private=true&hide=jupyter%20notebook&langs_count=15)](https://github.com/SuperHotDogCat/github-readme-stats)
 <!--
 **SuperHotDogCat/SuperHotDogCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
