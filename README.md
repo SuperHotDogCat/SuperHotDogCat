@@ -1,10 +1,14 @@
-<!-
+### こんな感じのことをしています(現在Private Repository未反映)↓
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperHotDogCat&theme=vue-dark&show_icons=true&count_private=true&show_icons=true)](https://github.com/SuperHotDogCat/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperHotDogCat&theme=vue-dark&show_icons=true&layout=compact&count_private=true&hide=jupyter%20notebook&langs_count=20)](https://github.com/SuperHotDogCat/github-readme-stats)
+<!--
 ### こんな感じのことをしています↓
 [![SuperHotDogCat's GitHub stats](https://git-hub-readme-stats-clone-qzs38u3y9-superhotdogcats-projects.vercel.app/api?username=SuperHotDogCat&theme=vue-dark&show_icons=true&count_private=true&show_icons=true)](https://github.com/SuperHotDogCat/github-readme-stats)
 [![Top Langs](https://git-hub-readme-stats-clone-qzs38u3y9-superhotdogcats-projects.vercel.app/api/top-langs/?username=SuperHotDogCat&theme=vue-dark&show_icons=true&layout=compact&count_private=true&hide=jupyter%20notebook&langs_count=20)](https://github.com/SuperHotDogCat/github-readme-stats)
 -->
+<!--
 **SuperHotDogCat/SuperHotDogCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
