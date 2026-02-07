@@ -1,22 +1,12 @@
-### こんな感じのことをしています(現在Private Repository未反映)↓
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperHotDogCat&theme=vue-dark&show_icons=true&count_private=true&show_icons=true)](https://github.com/SuperHotDogCat/github-readme-stats)
+🚀 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperHotDogCat&theme=vue-dark&show_icons=true&layout=compact&count_private=true&hide=jupyter%20notebook&langs_count=20)](https://github.com/SuperHotDogCat/github-readme-stats)
-<!--
-### こんな感じのことをしています↓
-[![SuperHotDogCat's GitHub stats](https://git-hub-readme-stats-clone-qzs38u3y9-superhotdogcats-projects.vercel.app/api?username=SuperHotDogCat&theme=vue-dark&show_icons=true&count_private=true&show_icons=true)](https://github.com/SuperHotDogCat/github-readme-stats)
-[![Top Langs](https://git-hub-readme-stats-clone-qzs38u3y9-superhotdogcats-projects.vercel.app/api/top-langs/?username=SuperHotDogCat&theme=vue-dark&show_icons=true&layout=compact&count_private=true&hide=jupyter%20notebook&langs_count=20)](https://github.com/SuperHotDogCat/github-readme-stats)
--->
-<!--
-**SuperHotDogCat/SuperHotDogCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+I work on GPU computing, parallel systems, and deep learning infrastructure.
+I enjoy working on performance-critical parts of systems — optimization, distributed training, and low-level model implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ CUDA / PyTorch / Triton / Distributed Training
+
+🧠 LLMs, time-series modeling, medical data processing
+
+🧵 Parallelization, memory optimization, systems-level ML
+
+🌐 Currently expanding into full-stack development
